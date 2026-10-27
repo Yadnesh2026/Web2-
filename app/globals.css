@@ -105,4 +105,4 @@ a:hover,.outline-button:hover,.solid-button:hover{transition:.2s}
 .event-venue-art:after{content:none}
 .event-venue-photo{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;object-position:center 56%}
 .event-venue-details h3,.english-site .event-venue-details h3{font-weight:700}
-@media(max-width:760px){.event-venue-art{min-height:285px;border-right:0;border-bottom:1px solid #e7d6af}.event-venue-photo{object-position:center 80%}}
+@media(max-width:760px){.event-venue-art{min-height:285px;border-right:0;border-bottom:1px solid #e7d6af}.event-venue-photo{object-position:center 60%}}
