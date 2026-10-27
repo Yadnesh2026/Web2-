@@ -85,3 +85,5 @@ a:hover,.outline-button:hover,.solid-button:hover{transition:.2s}
 .english-site .event-venue-facts>div{gap:7px;padding:14px 0}
 .english-site .event-venue-coordinates{font-size:12px;font-weight:700;color:#71552f;letter-spacing:1.2px}
 @media(max-width:760px){.english-site .event-venue-facts strong{font-size:16px}.english-site .event-venue-facts span{font-size:11px}.english-site .event-venue-coordinates{font-size:11px}}
+@media(max-width:760px){.cover-screen{width:100vw;left:0;right:auto;padding:12px;box-sizing:border-box;place-items:center;overflow:hidden}.cover-paper{width:calc(100vw - 32px);max-width:460px;height:min(690px,calc(100dvh - 24px));min-height:min(530px,calc(100dvh - 24px));margin:0 auto;justify-self:center}.cover-inner{width:100%;min-width:0}}
+@media(max-width:760px){.cover-screen{display:flex;align-items:center;justify-content:center;inset:0;width:auto;padding:12px;box-sizing:border-box}.cover-paper{flex:0 1 460px;width:min(460px,100%);max-width:calc(100vw - 24px);margin-inline:auto;justify-self:auto}.english-site .cover-inner h1{max-width:100%;font-size:clamp(34px,9vw,46px);white-space:nowrap}}
