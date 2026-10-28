@@ -9,7 +9,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     metadataBase,
     title: "Sakshi & Tejas | Wedding Invitation",
-    description: "Celebrate the wedding of Sakshi and Tejas on 18 December 2026 at Jai Bharat Mangal & Stay.",
+    description: "Celebrate the wedding of Sakshi and Tejas on 18 December 2026 at Jai Bharat Mangal & Stay, Amravati.",
     openGraph: { title: "Sakshi & Tejas | Wedding Invitation", description: "A celebration of love, family and new beginnings · 18 December 2026", type: "website", images: [{ url: "/og-invitation.svg", width: 1200, height: 630, alt: "Sakshi and Tejas wedding invitation" }] },
     icons: { icon: "/favicon.svg" }
   };
